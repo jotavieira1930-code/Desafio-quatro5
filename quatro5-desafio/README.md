@@ -1,8 +1,14 @@
-# TaskFlow PME - Desafio Técnico Quatro5
+# BitFlow PME - Desafio Técnico Quatro5
 
 Ferramenta simples de gestão de atividades para um time pequeno, criada em TypeScript com React e Vite.
 
 A proposta é resolver o problema do Ricardo: tarefas espalhadas, falta de clareza sobre responsáveis, prazos estourando sem aviso e reuniões sem números.
+
+## Inspiração e escolha do nome
+
+O projeto foi inspirado no Bitrix24, especialmente na ideia de centralizar atividades e acompanhar o trabalho por meio de um quadro visual. O BitFlow adapta esse conceito para uma solução autoral, mais simples e focada nas necessidades apresentadas no desafio técnico.
+
+O nome **BitFlow** combina “Bit”, como referência à inspiração no Bitrix24 e ao contexto de tecnologia, com “Flow”, que representa o fluxo das tarefas pelo quadro Kanban. O projeto não possui vínculo com o Bitrix24.
 
 ## Como rodar
 
@@ -47,7 +53,7 @@ npm run build
 
 ### “O trabalho do time vive espalhado em planilha, papel e grupo de WhatsApp. Eu nunca sei o que está em andamento de verdade.”
 
-O TaskFlow centraliza as atividades em um único quadro Kanban. Cada tarefa possui responsável, prazo, prioridade e status, permitindo que o Ricardo visualize o que está a fazer, em andamento, em revisão ou concluído.
+O BitFlow centraliza as atividades em um único quadro Kanban. Cada tarefa possui responsável, prazo, prioridade e status, permitindo que o Ricardo visualize o que está a fazer, em andamento, em revisão ou concluído.
 
 ### “Tem gente afogada de tarefa e gente ociosa — e eu só descubro quando alguém reclama ou quando algo não sai.”
 

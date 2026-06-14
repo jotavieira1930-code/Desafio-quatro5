@@ -174,7 +174,7 @@ function App() {
       <section className="hero">
         <div>
           <span className="eyebrow">Gestão de Atividades</span>
-          <h1>TaskFlow PME</h1>
+          <h1>BitFlow PME</h1>
           <p>
             Um painel simples para o Ricardo registrar demandas, acompanhar responsáveis,
             visualizar prazos e tomar decisões com base em indicadores.
