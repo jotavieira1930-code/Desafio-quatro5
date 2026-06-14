@@ -43,6 +43,24 @@ npm run build
 - Indicadores/KPIs para apoiar decisão
 - Visão de carga de trabalho por pessoa
 
+## Como a solução responde ao Ricardo
+
+### “O trabalho do time vive espalhado em planilha, papel e grupo de WhatsApp. Eu nunca sei o que está em andamento de verdade.”
+
+O TaskFlow centraliza as atividades em um único quadro Kanban. Cada tarefa possui responsável, prazo, prioridade e status, permitindo que o Ricardo visualize o que está a fazer, em andamento, em revisão ou concluído.
+
+### “Tem gente afogada de tarefa e gente ociosa — e eu só descubro quando alguém reclama ou quando algo não sai.”
+
+A seção de carga por pessoa mostra quantas tarefas ativas e quantas tarefas de alta prioridade cada integrante possui. O indicador de pessoas sobrecarregadas ajuda o Ricardo a identificar desequilíbrios e redistribuir o trabalho antes que uma entrega seja afetada.
+
+### “Prazo combinado com cliente estoura e eu só fico sabendo depois que estourou. Ninguém me avisa antes.”
+
+Cada atividade possui um prazo visível e as tarefas vencidas recebem destaque no quadro. O indicador de tarefas atrasadas permite que o Ricardo identifique entregas críticas, cobre uma atualização e renegocie prioridades antes que o problema aumente. Como evolução, o sistema poderia enviar notificações automáticas antes do vencimento.
+
+### “Na reunião de segunda-feira ninguém tem número nenhum. A conversa é toda baseada em ‘acho que foi uma boa semana’.”
+
+O painel apresenta taxa de conclusão, tarefas atrasadas, tarefas ativas, pessoas sobrecarregadas e carga por pessoa. Assim, a reunião pode ser conduzida com números objetivos sobre entregas, atrasos e capacidade do time.
+
 ## Metodologia escolhida
 
 Escolhi usar Kanban como base porque o maior problema do Ricardo é falta de visibilidade. O Kanban deixa claro o que está a fazer, o que está em andamento, o que está em revisão e o que já foi concluído.
