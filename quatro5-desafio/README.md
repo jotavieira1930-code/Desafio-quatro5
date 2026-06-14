@@ -1,12 +1,12 @@
 # BitFlow PME - Desafio Técnico Quatro5
 
-Ferramenta simples de gestão de atividades para um time pequeno, criada em TypeScript com React e Vite.
+Ferramenta simples de gestão de atividades para uma empresa de soluções inteligentes e engenharia, criada em TypeScript com React e Vite.
 
-A proposta é resolver o problema do Ricardo: tarefas espalhadas, falta de clareza sobre responsáveis, prazos estourando sem aviso e reuniões sem números.
+A proposta é apoiar Ricardo e sua equipe de 10 pessoas, resolvendo tarefas espalhadas, falta de clareza sobre responsáveis, prazos estourando sem aviso e reuniões sem números.
 
 ## Inspiração e escolha do nome
 
-O projeto foi inspirado no Bitrix24, especialmente na ideia de centralizar atividades e acompanhar o trabalho por meio de um quadro visual. O BitFlow adapta esse conceito para uma solução autoral, mais simples e focada nas necessidades apresentadas no desafio técnico.
+O projeto utiliza a metodologia Kanban e foi inspirado no Bitrix24, especialmente na ideia de centralizar atividades e acompanhar o trabalho por meio de um quadro visual. O BitFlow adapta esse conceito para uma solução autoral, mais simples e focada nas necessidades apresentadas no desafio técnico.
 
 O nome **BitFlow** combina “Bit”, como referência à inspiração no Bitrix24 e ao contexto de tecnologia, com “Flow”, que representa o fluxo das tarefas pelo quadro Kanban. O projeto não possui vínculo com o Bitrix24.
 
@@ -44,10 +44,13 @@ npm run build
 - Prazo
 - Prioridade
 - Status da tarefa
+- Objetivo do trabalho para o cliente em cada atividade
 - Quadro Kanban com as etapas: A fazer, Em andamento, Em revisão e Concluído
 - Dados fictícios iniciais
 - Indicadores/KPIs para apoiar decisão
-- Visão de carga de trabalho por pessoa
+- Visão de carga de trabalho da equipe de 10 pessoas
+- Agenda separada para reuniões, treinamentos e alinhamentos
+- Identidade visual em vermelho e branco
 
 ## Como a solução responde ao Ricardo
 
